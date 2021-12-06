@@ -10,7 +10,7 @@
 - Estimate alpha-VAR for certain portfolio
 - Portfolio Weight Optimizer (Based on sharpe ratio)
 
-#### Assignment 2: 
+#### Assignment 2: Additional to GARCH modelling (BEKK and DVECH models) 
 - Estimating Stochastic Volatility model
 - Obtaining and Plotting Filtered Volatility
 - Forecasting Volatility
